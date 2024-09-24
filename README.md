@@ -14,5 +14,5 @@ Have questions? Hit me up:
     Twitter: @yourhandle
     GitHub: witcher7
 
-Keep the funk alive!!!🤟
-AWESOME!!!!
+Keep the funk alive!!🤟
+AWESOME!!
