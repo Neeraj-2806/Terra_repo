@@ -8,7 +8,7 @@ Welcome to the Funky JS Web App! This project is a groovy JavaScript application
 🎸 Rock on with your code! 🎸
 📬 Contact:
 
-Have questions? Hit me up:
+Have questions? Hit me up:-
 
     Email: gulati.r7121@gmail.com
     Twitter: @yourhandle
